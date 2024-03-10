@@ -13,6 +13,7 @@ Es benötigt eine Verbindung zur Datenbank. In meinem Fall habe ich MySQL verwen
 
 Für das Implementierung von eine JWT Authentifizierung und Autorisierung habe ich die Idee von foldende Youtube Video gelernt: https://www.youtube.com/watch?v=d4Y2DkKbxM0 .Es ist wichtig zu betonen, dass ich kein Code kopiert habe, sondern habe ich lediglich die Idee gelernt. Alle anderen Teile sind meine eigene Ideen sowie Implementierungen
 
+Projekt starten: go run main.go
 
 
 ## REACT PROJEKT FÜR DAS FRONTEND
@@ -35,5 +36,7 @@ Anleitung zur Verwendung des ToDoList:
        man auf "Get Back" klickt, kommnt man zurück zu Kategorienliste.
     4. Bonus: ToDo teilen: Es gibt ein Inputfeld, wo man username von einer Account eingeben kann, mit wem man eine bestimmte Kategorie teilen will. Wenn man einen nicht existierenden Username eingibt
        wird einfach nicht passieren. Man kann auch seinen eigenen usernamen eingeben, dann taucht die Kategorie in eigenen Liste und geteilte Liste beide auf.
+       
+Projekt starten: npm start
 
-  Beim Nachfragen stehe ich euch gern zur Verfügung
+Beim Nachfragen stehe ich euch gern zur Verfügung
