@@ -11,7 +11,7 @@ Für das Go-Projekt müssen folgende Packages installiert werden:
   - 
 Es benötigt eine Verbindung zur Datenbank. In meinem Fall habe ich MySQL verwendet. Da ich VSCode verwendet habe, gibt es eine Extension (SQLTools) zur Herstellung einer Verbindung zur MySQL-Datenbank. Die Einstellungen für die Datenbankverbindung (Port, Server, Benutzername, Passwort) finden sich unter ToDoList/cmd/.vscode/settings.json.
 
-Für das Implementierung von eine JWT Authentifizierung und Autorisierung habe ich die Idee von foldende Youtube Video gelernt: https://www.youtube.com/watch?v=d4Y2DkKbxM0 .Es ist wichtig zu betonen, dass ich kein Code kopiert habe, sondern habe ich lediglich die Idee gelernt. Alle anderen Teile sind meine eigene Ideen sowie Implementierungen
+Für das Implementierung von eine JWT Authentifizierung und Autorisierung habe ich die Idee von foldende Youtube Video gelernt: https://www.youtube.com/watch?v=d4Y2DkKbxM0 .Es ist wichtig zu betonen, dass ich kein Code kopiert habe, sondern habe ich lediglich die Idee gelernt. Alle anderen Teile dieses ToDoList Projekts sind meine eigene Ideen sowie Implementierungen
 
 Projekt starten: go run main.go
 
